@@ -1,0 +1,3 @@
+[submodule "subprojects/easyrpn"]
+	path = subprojects/easyrpn
+	url = git@github.com:22ispencer/easyrpn.git
